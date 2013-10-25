@@ -1,0 +1,8 @@
+{
+  "name": "html2json",
+  "description": "HTML to JSON conversion",
+  "homepage": "https://github.com/andreioprisan/meteor-html2json",
+  "author": "Andrei Oprisan (http://andrei.oprisan.com)",
+  "version": "1.0.0",
+  "git": "http://github.com/andreioprisan/meteor-html2json.git"
+}
